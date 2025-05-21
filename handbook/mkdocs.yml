@@ -1,0 +1,9 @@
+site_name: OK Handcrew SOG Handbook
+
+nav:
+  - Home: index.md
+  - Forms:
+      - Behavior Agreement: forms/behavior-agreement.md
+
+theme:
+  name: material
