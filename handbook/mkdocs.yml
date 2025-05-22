@@ -1,9 +1,35 @@
-site_name: OK Handcrew SOG Handbook
-
-nav:
-  - Home: index.md
-  - Forms:
-      - Behavior Agreement: forms/behavior-agreement.md
-
+site_name: OKMD Wildland Fire Program Handbook
 theme:
   name: material
+  features:
+    ## - navigation.tabs
+    - search.highlight
+    - search.suggest
+  palette:
+    - scheme: default
+      primary: indigo
+    - scheme: slate
+      primary: indigo
+
+nav:
+  - Introduction: index.md
+  - 2. Organizational Framework: 01_organizational.md
+  - 3. Season of Operation: 02_season.md
+  - 4. Crew Composition: 03_composition.md
+  - 5. Mobilization Procedures: 04_mobilization.md
+  - 6. Equipment and Gear: 05_equipment.md
+  - 7. Crew Operations: 06_operations.md
+  - 8. Administrative Duties: 07_admin.md
+  - 9. Demobilization: 08_demobilization.md
+  - 10. Conduct and Discipline: 09_conduct.md
+  - 11. Appendices:
+      - Appendix A: appendix-a.md
+      - Appendix B: appendix-b.md
+      - Appendix C: appendix-c.md
+      - Appendix D: appendix-d.md
+      - Appendix E: appendix-e.md
+      - Appendix F: appendix-f.md
+      - Appendix G: appendix-g.md
+  - Forms:
+        - Incident Behavior Form: forms/incident-behavior-form.pdf
+        - Wildland Fire Packing List: forms/wildland-fire-packing-list.pdf
