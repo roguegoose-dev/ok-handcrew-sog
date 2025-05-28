@@ -8,18 +8,18 @@ Mobilization begins long before a fire assignment and doesn’t end when the cal
 
 Readiness is not optional. Crewmembers are expected to stay deployable and responsive throughout the fire season.
 
-### ✅ Gear Readiness
+### Gear Readiness
 - Red bag must be packed and ready for immediate load
 - Boots, PPE, and Nomex gear must be clean, labeled, and serviceable
 - Fire shelter must be packed, current, and checked regularly
 - Line pack must be maintained and stowed in a deployable state
 
-### ✅ Credentials
+### Credentials
 - Red card must be current and accessible
 - RT-130 refresher and pack test must be completed before season opens
 - IQWS must be up to date — any missing training should be reported
 
-### ✅ Availability Status
+### Availability Status
 - Update BaseConnect when your availability changes
 - Do not mark available if you are physically unready or unavailable due to work, school, or gear issues
 - Notify Squad Boss or Readiness NCO immediately if your status changes after marking available
