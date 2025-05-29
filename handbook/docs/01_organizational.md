@@ -1,11 +1,11 @@
 ## 2. Organizational Framework
 
-The Oklahoma National Guard Type 2 Handcrew operates under the command structure of the Oklahoma Military Department and is coordinated through Camp Gruber during wildland fire mobilizations.
+The OKMD Wildland Fire Program operates under the command structure of the Oklahoma Military Department and is coordinated through Camp Gruber during wildland fire mobilizations.
 
 ### 2.1 Chain of Command
 
 The reporting location for all crew activations is:
-**Camp Gruber Training Center – Braggs, OK**
+**Fire Operations Center, Camp Gruber Training Site – Braggs, OK**
 
 All crew members will fall under the authority of the assigned **Crew Boss (CRWB)** and will follow the organizational hierarchy established for each deployment, which typically includes:
 - 1 Crew Boss (CRWB)
