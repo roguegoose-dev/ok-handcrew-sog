@@ -11,17 +11,13 @@ All crew members will fall under the authority of the assigned **Crew Boss (CRWB
 - 1 Crew Boss (CRWB)
 - 1 Crew Boss Trainee (CRWB-T) if assigned
 - 3-4 Squad Bosses (FFT1)
-- Firefighters (FFT2)
+- 10 - 14 Firefighters (FFT2)
 - 1 or more Sawyers (FAL2 or FAL3)
 - 1 Line Medic
 
 > 🟡 *Note: Roles may vary by assignment. Squad structure and leadership assignment will be determined based on availability and crew qualifications at the time of mobilization.*
 
 Additional roles and resposibility may be required for administrative functions between assignments to include:
-
-Mobilization Coordinator **Role**
-Operations and Procedures Coordinator **Role**
-
 
 ### 2.2 Oversight and Review
 
